@@ -1,0 +1,6 @@
+/* Стилі для сторінок опису */
+.green-bg {
+    background-color: #00d100; 
+    display: flex;
+    justify-content: center;
+}
